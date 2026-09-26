@@ -1,0 +1,172 @@
+{
+  "pageTitle": "蓮華 · Kiries",
+  "brandMode": "favicon",
+  "brandMark": "MIO  /  STUDIO",
+  "name": "蓮華",
+  "Alias": "Kiries",
+  "footerName": "Kiries",
+  "footerUrl": "https://nia.wiki",
+  "siteStartedAt": "2026-09-12T00:00:00+08:00",
+  "eyebrow": "Optometrist · Vision Therapist",
+  "avatar": "https://q1.qlogo.cn/g?b=qq&nk=1909637094&s=640",
+  "status": "Active",
+  "enableHitokoto": true,
+  "hitokotoMaxLength": 42,
+  "defaultIntro": "呓语红尘，一梦千朝",
+  "favicon": "./favicon.svg",
+  "headerLinks": [
+    {
+      "label": "视频主页",
+      "href": "https://sk.ax",
+      "enabled": false
+    },
+    {
+      "label": "Komari",
+      "href": "https://ss.sukap.cn",
+      "enabled": true
+    },
+    {
+      "label": "图床",
+      "href": "https://img.nia.wiki",
+      "enabled": false
+    }
+  ],
+  "enableBackgroundImage": true,
+  "backgroundImage": "https://www.loliapi.com/acg",
+  "showSites": true,
+  "siteKicker": "FIND ME ONLINE",
+  "siteTitle": "我的其他角落",
+  "siteDescription": "从这里，去往我在网络上的不同侧面",
+  "sites": [
+    {
+      "iconMode": "url",
+      "iconUrl": "https://cdn.simpleicons.org/circle/ffffff",
+      "mark": "K",
+      "tone": "blue",
+      "enabled": true,
+      "name": "视频主页",
+      "description": "大流量Warning...",
+      "href": "https://sk.ax"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/icon-park-outline:monitor-two.svg?color=%23ffffff",
+      "mark": "K",
+      "tone": "sky",
+      "enabled": true,
+      "name": "Komari",
+      "description": "服务器探针",
+      "href": "https://ss.sukap.cn"
+    },
+    {
+      "iconMode": "text",
+      "iconUrl": "",
+      "mark": "◌",
+      "tone": "coral",
+      "enabled": true,
+      "name": "图床",
+      "description": "Deploy on Cloudflare",
+      "href": "https://img.nia.wiki"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://cdn.simpleicons.org/circle/ffffff",
+      "mark": "◎",
+      "tone": "rose",
+      "enabled": true,
+      "name": "网站证书检测",
+      "description": "网站安全检测工具",
+      "href": "https://ssl.sk.ax"
+    },
+    {
+      "iconMode": "text",
+      "iconUrl": "",
+      "mark": "✦",
+      "tone": "mint",
+      "enabled": false,
+      "name": "个人博客",
+      "description": "Deploy on Vercel",
+      "href": "https://blog.sukap.cn"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/akar-icons/bitcoin-fill.svg?color=%23ffffff",
+      "mark": "P",
+      "tone": "lemon",
+      "enabled": true,
+      "name": "HashPay",
+      "description": "加密货币收款网关",
+      "href": "https://hashpay.sukap.workers.dev/"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/fa6-solid:terminal.svg?color=%23ffffff",
+      "mark": "K",
+      "tone": "mint",
+      "enabled": true,
+      "name": "EdgeSSH",
+      "description": "Workers SSH 工作台",
+      "href": "https://edgessh.sukap.workers.dev/"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/keyline-icons:podcast.svg?color=%23ffffff",
+      "mark": "K",
+      "tone": "blue",
+      "enabled": true,
+      "name": "SubStore",
+      "description": "在线订阅转换",
+      "href": " https://sub.sk.ax"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/hugeicons:chat-gpt.svg?color=%23ffffff",
+      "mark": "K",
+      "tone": "orange",
+      "enabled": true,
+      "name": "Sub2API",
+      "description": "AI 中转站",
+      "href": "https://ai.nia.wiki/"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/thesvg:uptime-kuma.svg?color=%23ffffff",
+      "mark": "K",
+      "tone": "violet",
+      "enabled": true,
+      "name": "UptimeBot",
+      "description": "UptimeRobot",
+      "href": "https://status.sukap.cn/"
+    }
+  ],
+  "contacts": [
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/simple-icons/telegram.svg?color=%23ffffff",
+      "mark": "T",
+      "enabled": true,
+      "label": "Telegram",
+      "url": "https://t.me/xkiries"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/simple-icons/github.svg?color=%23ffffff",
+      "mark": "",
+      "enabled": true,
+      "label": "GitHub",
+      "url": "https://github.com/xkiries"
+    },
+    {
+      "iconMode": "url",
+      "iconUrl": "https://api.iconify.design/mdi/email-outline.svg?color=%23ffffff",
+      "mark": "",
+      "enabled": true,
+      "label": "Email",
+      "url": "mailto:xkiries@gmail.com"
+    }
+  ],
+  "heroImage": "./alice.png",
+  "showHeroImage": true,
+  "heroLayersEnabled": true,
+  "showContacts": true
+}

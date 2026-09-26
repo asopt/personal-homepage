@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#121719" />
+    <meta name="description" content="蓮華 / Kiries · Optometrist · Vision Therapist" />
+    <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
+    <title>Kiries</title>
+    <script>
+        // 在应用模块运行前同步动态页面标题；其他 meta 标签使用 HTML 静态值。
+        fetch("/api/config")
+            .then((response) => (response.ok ? response.json() : null))
+            .then((config) => {
+                if (!config) return;
+                document.title = config.pageTitle || "Kiries";
+            })
+            .catch(() => { });
+    </script>
+</head>
+
+<body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+</body>
+
+</html>
